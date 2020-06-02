@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <extension type="package" version="3.9" method="upgrade">
     <name>Nieoficjalna Polska paczka językowa do Akeeba LoginGuard</name>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <creationDate>2020-06-02</creationDate>
 
     <author>Mateusz Piela</author>
@@ -29,5 +29,9 @@
         <file type="language">pl-PL.plg_loginguard_u2f.zip</file>
         <file type="language">pl-PL.plg_loginguard_webauthn.zip</file>
 		<file type="language">pl-PL.plg_loginguard_yubikey.zip</file>
+		<file type="language">pl-PL.plg_actionlog_loginguard.zip</file>
+		<file type="language">pl-PL.plg_system_loginguard.zip</file>
+		<file type="language">pl-PL.plg_user_loginguard.zip</file>
     </files>
+	
 </extension>
