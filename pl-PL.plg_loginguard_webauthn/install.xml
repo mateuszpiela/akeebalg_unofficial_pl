@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="file" version="3.9" method="upgrade">
+	<name>pl-PL.plg_loginguard_webauthn</name>
+	<tag>pl-PL</tag>
+	<creationDate>02/06/2020</creationDate>
+	<author>Mateusz Pieła</author>
+	<authorEmail></authorEmail>
+	<authorUrl>https://mateuszpiela.eu</authorUrl>
+	<copyright>(C) 2020 Mateusz Pieła</copyright>
+	<license>GPLv3</license>
+	<description>Nieoficjalne tłumaczenie wtyczki Akeeba LoginGuard WebAuthn na język polski</description>
+	<version>0.0.1</version>
+
+   <fileset>
+    <files folder="admin" target="administrator/language/pl-PL">
+  		<filename>pl-PL.plg_loginguard_webauthn.ini</filename>
+  		<filename>pl-PL.plg_loginguard_webauthn.sys.ini</filename>	
+   </files>
+  </fileset>
+</extension>
