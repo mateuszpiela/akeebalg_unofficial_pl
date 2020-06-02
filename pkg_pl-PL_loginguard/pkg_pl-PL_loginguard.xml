@@ -34,4 +34,7 @@
 		<file type="language">pl-PL.plg_user_loginguard.zip</file>
     </files>
 	
+	 <updateservers>
+        <server type="extension" priority="1" name="Nieoficjalne aktualizacje pakietu językowego do Akeeba LoginGuard">https://raw.githubusercontent.com/mateuszpiela/akeebalg_unofficial_pl/master/updates.xml</server>
+    </updateservers>
 </extension>
