@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <extension type="package" version="3.9" method="upgrade">
     <name>Nieoficjalna Polska paczka językowa do Akeeba LoginGuard</name>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <creationDate>2020-06-02</creationDate>
 
     <author>Mateusz Piela</author>
     <authorEmail></authorEmail>
     <authorUrl>https://mateuszpiela.eu</authorUrl>
 
-    <packagename>pkg_pl-PL_logingurad</packagename>
+    <packagename>pkg_pl-PL_loginguard</packagename>
     <url>https://mateuszpiela.eu</url>
     <packager>Mateusz Piela</packager>
     <packagerurl>https://mateuszpiela.eu</packagerurl>
