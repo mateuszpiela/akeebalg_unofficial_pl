@@ -9,7 +9,7 @@
 	<copyright>(C) 2020 Mateusz Pieła</copyright>
 	<license>GPLv3</license>
 	<description>Nieoficjalne tłumaczenie komponentu Akeeba LoginGuard na język polski</description>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
 	
 <fileset>
     <files folder="admin" target="administrator/language/pl-PL">
